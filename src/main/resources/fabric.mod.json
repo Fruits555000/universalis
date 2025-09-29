@@ -5,13 +5,13 @@
 	"name": "Fruits' Stellaris Addon",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
-		"Me!"
+		"Fruits555000"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/fruits_stellaris_addon/icon.png",
 	"environment": "*",
 	"entrypoints": {
@@ -20,6 +20,9 @@
 		],
 		"fabric-datagen": [
 			"net.fruits555000.fruits_stellaris_addon.FruitsStellarisAddonDataGenerator"
+		],
+		"client": [
+			"net.fruits555000.fruits_stellaris_addon.FruitsStellarisAddonClient"
 		]
 	},
 	"mixins": [
@@ -28,6 +31,7 @@
 	"depends": {
 		"fabricloader": ">=0.17.2",
 		"minecraft": "~1.21.1",
+		"stellaris": ">=1.4.11",
 		"java": ">=21",
 		"fabric-api": "*"
 	},
