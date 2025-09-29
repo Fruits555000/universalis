@@ -1,0 +1,15 @@
+{
+  "system": "solar_system",
+  "level": "fruits_stellaris_addon:ceres_orbit",
+  "name": "Mars Orbit",
+  "translatable": "fruits_stellaris_addon.planet.ceres",
+  "mainPlanet": "fruits_stellaris_addon:ceres",
+  "oxygen": false,
+  "temperature": -100,
+  "distanceFromEarth": 293810,
+  "gravity": 0.27,
+  "textures": {
+    "planet": "fruits_stellaris_addon:textures/planet_bar/orbit_planet_bar.png",
+    "planet_bar": "fruits_stellaris_addon:textures/planet_bar/orbit_planet_bar.png"
+  }
+}
