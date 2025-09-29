@@ -1,0 +1,14 @@
+{
+  "texture": "stellaris:textures/environment/solar_system/jupiter.png",
+  "name": "Jupiter",
+  "distance": 780,
+  "period": 10000,
+  "width": 20.0,
+  "height": 20.0,
+  "parent": "stellaris:sun",
+  "dimensionId": "stellaris:jupiter",
+  "translatable": "text.stellaris.planetscreen.jupiter",
+  "id": "stellaris:jupiter",
+  "space_station": true,
+  "can_launch_on": false
+}
