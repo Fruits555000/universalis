@@ -1,0 +1,14 @@
+
+{
+  "texture": "universalis:textures/environment/solar_system/ganymede.png",
+  "name": "Ganymede",
+  "distance": 89,
+  "period": 520,
+  "width": 7.25,
+  "height": 7.25,
+  "parent": "stellaris:jupiter",
+  "dimensionId": "universalis:ganymede",
+  "translatable": "text.universalis.planetscreen.ganymede",
+  "id": "universalis:ganymede",
+  "space_station": true
+}

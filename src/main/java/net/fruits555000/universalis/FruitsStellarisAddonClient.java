@@ -1,4 +1,4 @@
-package net.fruits555000.fruits_stellaris_addon;
+package net.fruits555000.universalis;
 
 import net.fabricmc.api.ClientModInitializer;
 

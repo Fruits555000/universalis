@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "net.fruits555000.fruits_stellaris_addon.mixin",
+	"package": "net.fruits555000.universalis.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
 		"ExampleMixin"

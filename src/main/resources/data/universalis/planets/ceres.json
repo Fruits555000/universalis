@@ -1,0 +1,15 @@
+{
+  "system": "solar_system",
+  "level": "universalis:ceres",
+  "orbit": "universalis:ceres_orbit",
+  "name": "Ceres",
+  "translatable": "universalis.planet.ceres",
+  "oxygen": false,
+  "temperature": -100,
+  "distanceFromEarth": 293810,
+  "gravity": 0.27,
+  "textures": {
+    "planet": "universalis:textures/planet_bar/ceres_planet_bar.png",
+    "planet_bar": "universalis:textures/planet_bar/ceres_planet_bar.png"
+  }
+}

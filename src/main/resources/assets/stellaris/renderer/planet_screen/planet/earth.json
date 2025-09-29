@@ -9,5 +9,5 @@
   "dimensionId": "minecraft:overworld",
   "translatable": "text.stellaris.planetscreen.earth",
   "id": "stellaris:earth",
-  "space_station": true,
+  "space_station": true
 }

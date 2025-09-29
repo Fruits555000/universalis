@@ -1,7 +1,7 @@
 {
   "system": "solar_system",
   "level": "fruits_stellaris_addon:ceres_orbit",
-  "name": "Mars Orbit",
+  "name": "Ceres Orbit",
   "translatable": "fruits_stellaris_addon.planet.ceres",
   "mainPlanet": "fruits_stellaris_addon:ceres",
   "oxygen": false,

@@ -1,0 +1,13 @@
+{
+  "texture": "universalis:textures/environment/solar_system/ceres.png",
+  "name": "Ceres",
+  "distance": 405,
+  "period": 12000,
+  "width": 4,
+  "height": 4,
+  "parent": "stellaris:sun",
+  "dimensionId": "universalis:ceres",
+  "translatable": "text.universalis.planetscreen.ceres",
+  "id": "universalis:ceres",
+  "space_station": false
+}

@@ -1,8 +1,8 @@
 {
 	"schemaVersion": 1,
-	"id": "fruits_stellaris_addon",
+	"id": "universalis",
 	"version": "${version}",
-	"name": "Fruits' Stellaris Addon",
+	"name": "Universalis",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
 		"Fruits555000"
@@ -12,21 +12,21 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "MIT",
-	"icon": "assets/fruits_stellaris_addon/icon.png",
+	"icon": "assets/universalis/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"net.fruits555000.fruits_stellaris_addon.FruitsStellarisAddon"
+			"net.fruits555000.universalis.FruitsStellarisAddon"
 		],
 		"fabric-datagen": [
-			"net.fruits555000.fruits_stellaris_addon.FruitsStellarisAddonDataGenerator"
+			"net.fruits555000.universalis.FruitsStellarisAddonDataGenerator"
 		],
 		"client": [
-			"net.fruits555000.fruits_stellaris_addon.FruitsStellarisAddonClient"
+			"net.fruits555000.universalis.FruitsStellarisAddonClient"
 		]
 	},
 	"mixins": [
-		"fruits_stellaris_addon.mixins.json"
+		"universalis.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.17.2",

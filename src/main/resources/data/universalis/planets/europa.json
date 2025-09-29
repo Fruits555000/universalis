@@ -1,0 +1,14 @@
+{
+  "system": "solar_system",
+  "level": "universalis:europa",
+  "name": "Europa",
+  "translatable": "universalis.planet.europa",
+  "oxygen": false,
+  "temperature": -130,
+  "distanceFromEarth":  7150000,
+  "gravity": 1.315,
+  "textures": {
+    "planet": "universalis:textures/planet_bar/ceres_planet_bar.png",
+    "planet_bar": "universalis:textures/planet_bar/ceres_planet_bar.png"
+  }
+}
